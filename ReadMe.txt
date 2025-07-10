@@ -14,3 +14,9 @@ List of Projects:
 (3) Simple GLM: Insurance companies invest a lot of time and money into optimizing their pricing and accurately estimating the likelihood that customers will make a claim. In many countries, insurance is a legal requirement to have car insurance in order to drive a vehicle on public roads, so the market is very large!
 
 (4) time_funcs: You recently quit your job to start a space logistics company that uses rockets to deliver critical cargo to colonies on demand. Since you're still in the startup phase, you're handling everything yourself, including writing the software to manage complex scheduling and timing across different space colonies.
+
+(5) mannwhitneyu_test: You create two datasets containing the results of every official men's and women's international football match since the 19th century, which you scraped from a reliable online source. This data is stored in two CSV files: women_results.csv and men_results.csv.
+
+The question you are trying to determine the answer to is:
+
+Are more goals scored in women's international soccer matches than men's?
