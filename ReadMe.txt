@@ -1,9 +1,9 @@
 
 Different Python projects:
 
-Each project has documentation necessary for understanding. 
+Each project includes the necessary documentation for understanding. 
 
-Each project is located in a separate subfolder, which contains all the necessary data, information, and functions. 
+Each project is located in a separate subfolder, which contains all the necessary data, information, and functions required for that project. 
 
 List of Projects:
 
@@ -11,7 +11,7 @@ List of Projects:
 
 (2) Register_funcs: You are a junior developer working in a small start-up. Your managers have asked you to develop a new account registration system for a mobile app. The system must validate user input on the sign-up form before creating an account.
 
-(3) Simple GLM: Insurance companies invest a lot of time and money into optimizing their pricing and accurately estimating the likelihood that customers will make a claim. In many countries, insurance is a legal requirement to have car insurance in order to drive a vehicle on public roads, so the market is very large!
+(3) Simple GLM: Insurance companies invest a lot of time and money into optimizing their pricing and accurately estimating the likelihood that customers will make a claim. In many countries, having car insurance is a legal requirement to drive a vehicle on public roads, making the market very large.
 
 (4) time_funcs: You recently quit your job to start a space logistics company that uses rockets to deliver critical cargo to colonies on demand. Since you're still in the startup phase, you're handling everything yourself, including writing the software to manage complex scheduling and timing across different space colonies.
 
@@ -19,4 +19,4 @@ List of Projects:
 
 The question you are trying to determine the answer to is:
 
-Are more goals scored in women's international soccer matches than men's?
+Are more goals scored in women's international soccer matches than in men's?
