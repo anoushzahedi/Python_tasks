@@ -15,8 +15,8 @@ List of Projects:
 
 (4) time_funcs: You recently quit your job to start a space logistics company that uses rockets to deliver critical cargo to colonies on demand. Since you're still in the startup phase, you're handling everything yourself, including writing the software to manage complex scheduling and timing across different space colonies.
 
-(5) mannwhitneyu_test: You create two datasets containing the results of every official men's and women's international football match since the 19th century, which you scraped from a reliable online source. This data is stored in two CSV files: women_results.csv and men_results.csv.
+(5) mannwhitneyu_test: You create two datasets containing the results of every official men's and women's international football match since the 19th century, which you scraped from a reliable online source. Are more goals scored in women's international soccer matches than in men's?
 
-The question you are trying to determine the answer to is:
-
-Are more goals scored in women's international soccer matches than in men's?
+(6) You are a data analyst at "FastShip", an e-commerce logistics company. 
+The company recently implemented a new routing system 
+and wants to compare it against the traditional routing system. Use bootstrapping and permutation testing to determine if the new routing system actually performs differently from the traditional system. The company needs robust statistical evidence before making this expensive transition.
