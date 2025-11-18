@@ -1,2 +1,1 @@
 *.ipynb linguist-language=Python
-src/legacy/*.ipynb linguist-language=Jupyter Notebook
