@@ -1,0 +1,2 @@
+# (6) permutation_test 
+You are a data analyst at "FastShip", an e-commerce logistics company. The company recently implemented a new routing system and wants to compare it against the traditional routing system. Use bootstrapping and permutation testing to determine if the new routing system actually performs differently from the traditional system. The company needs robust statistical evidence before making this expensive transition.
