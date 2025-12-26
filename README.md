@@ -22,5 +22,5 @@ You recently quit your job to start a space logistics company that uses rockets 
 ## (5) [mannwhitneyu_test](mannwhitneyu_test/)
 You create two datasets containing the results of every official men's and women's international football match since the 19th century, which you scraped from a reliable online source. Are more goals scored in women's international soccer matches than in men's?
 
-## (6) [permutation_test](permutation_test /)
+## (6) [permutation_test](permutation_test/)
 You are a data analyst at "FastShip", an e-commerce logistics company. The company recently implemented a new routing system and wants to compare it against the traditional routing system. Use bootstrapping and permutation testing to determine if the new routing system actually performs differently from the traditional system. The company needs robust statistical evidence before making this expensive transition.
